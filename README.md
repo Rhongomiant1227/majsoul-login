@@ -1,4 +1,5 @@
 修改了账号密码的定义顺序方便个人使用~
+这一版只需要一个变量 然后按照[账号1 密码1 账号2 密码2]的顺序排列
 
 使用[GitHub Action](https://github.com/features/actions)+[Selenium](https://selenium.dev)实现雀魂每日5:00自动登录，完成“良好市民”成就
 
